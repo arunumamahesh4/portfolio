@@ -1,0 +1,118 @@
+
+.bgimage {
+    height: 100vh;
+    background: url('umamahesh.jpg');
+    background-size: cover;
+    position: relative;
+    padding-bottom: 4rem;
+}
+/* text css above hero image*/
+.hero_title {
+    font-size: 5rem;
+    font-family: 'Sacramento',cursive;
+    font-weight: bold;
+    color:blueviolet;
+    padding-left: 2rem;
+}
+.hero_desc {
+    font-size: 2rem;
+    font-family: 'Montserrat',sans-serif;
+    color:black;
+    padding-left: 2rem;
+    padding-bottom: 2.5rem;
+}
+
+.hero-text {
+    text-align: left;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.nav-link {
+    font-size: 2rem;
+    color: red;
+}
+.navbar-brand {
+    font-size: 2rem;
+}
+/* about section image css */
+.imageAboutPage {
+    width: 100%;
+    padding-bottom: 4rem;
+    padding-right: 2rem;
+}
+#about {
+    background-color: transparent;
+    padding-top: 5px;
+}
+#services {
+    background-color:#B1B2FF;
+    padding-bottom: 5rem;
+    padding-top: 2rem;
+}
+.text-center {
+    font-family: 'Montserrat',sans-serif;
+    text-align: center;
+    font-size: 2.5rem;
+    color: black;
+    }
+}
+/* services section css */
+.servicesText.card {
+    height: 280px;
+    cursor: pointer;
+}
+
+.servicesIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card:hover .servicesIcon {
+    color: #D2001A;
+    border: 1px solid;
+}
+
+.servicesText:hover {
+    border: 3px solid #D2001A;
+}
+/* display background color black on navbar scroll */
+.navbarScroll.navbarDark {
+    background-color: black;
+}
+#portfolio {
+    padding-bottom: 2rem;
+}
+#canvas-for-googlemap {
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+}
+.contactme {
+    padding-top: 2rem;
+}
+.forms {
+    padding-top: 2rem;
+}
+.twitter {
+    padding-bottom: 2.5rem;
+}
+.nav-link1{
+    color: rgb(245, 17, 17)
+    font-size: 2rem;
+   line-spacing: 0.5rem;
+
+}
+#contact {
+    background-color: #B1B2FF;
+    padding-top: 2rem;
+}
+.about {
+    padding-bottom: 1.5rem;
+}
